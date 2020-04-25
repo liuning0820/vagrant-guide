@@ -5,7 +5,7 @@ play with vagrant
 
 ```sh
 # vagrant init ubuntu/trusty64
-vagrant init hashicorp/bionic64
+# vagrant init hashicorp/bionic64
 
 vagrant up
 
